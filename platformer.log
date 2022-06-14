@@ -1,0 +1,11 @@
+Sat Jul 15 15:00:42 JST 2017 INFO:Slick Build #237
+Sat Jul 15 15:00:42 JST 2017 INFO:setDisplayMode: 960 x 640
+Sat Jul 15 15:00:42 JST 2017 INFO:setTargetFrameRate: 60
+Sat Jul 15 15:00:42 JST 2017 INFO:setAlwaysRender: true
+Sat Jul 15 15:00:42 JST 2017 INFO:LWJGL Version: 2.9.3
+Sat Jul 15 15:00:42 JST 2017 INFO:OriginalDisplayMode: 1920 x 1080 x 32 @60Hz
+Sat Jul 15 15:00:42 JST 2017 INFO:TargetDisplayMode: 960 x 640 x 0 @0Hz
+Sat Jul 15 15:00:42 JST 2017 INFO:Starting display 960x640
+Sat Jul 15 15:00:42 JST 2017 INFO:Use Java PNG Loader = true
+Sat Jul 15 15:00:42 JST 2017 INFO:Controllers not available
+Sat Jul 15 15:01:27 JST 2017 INFO:Successful program termination
